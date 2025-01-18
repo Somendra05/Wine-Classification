@@ -1,4 +1,4 @@
-### Wine Classification with KNN: Enhancing Quality Prediction in Winemaking
+# Wine Classification with KNN: Enhancing Quality Prediction in Winemaking
 
 ## Business Problem
 
